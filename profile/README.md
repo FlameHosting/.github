@@ -1,59 +1,58 @@
-<h1 align="center">🌴 TropicalHost</h1>
+<div align="center">
 
-<p align="center">
-  <b>Tu plataforma de hosting confiable, potente y tropical</b>
-</p>
+<img src="docs/banner.png" alt="FlameHost" width="100%" />
 
-<p align="center">
-  🚀 Infraestructura de alto rendimiento • 🛠️ Soporte técnico experto • 🌐 Cobertura global
-</p>
+<br />
+<br />
 
----
+[![Website](https://img.shields.io/badge/Website-flamehost.net-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flamehost.net)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/flamehost)
+[![Status](https://img.shields.io/badge/Status-99.9%25%20Uptime-22c55e?style=for-the-badge)](https://status.flamehost.net)
 
-## 🧩 ¿Quiénes somos?
-
-**TropicalHost** es una empresa de hosting moderna, enfocada en brindar soluciones **eficientes, escalables y seguras** tanto para desarrolladores, empresas y creadores de contenido. Nos especializamos en:
-
-- 🌍 Servidores VPS & Dedicados
-- 🎮 Hosting para servidores de juegos (Minecraft, FiveM, etc.)
-- 🕸️ Web Hosting con paneles como Plesk y cPanel
-- 🧪 Infraestructura para proyectos personalizados
-- 🧠 Soporte con enfoque técnico y humano
+</div>
 
 ---
 
-## 🔧 Qué ofrecemos
+### About
 
-- ⚙️ **Rendimiento garantizado**: CPUs de alto nivel, discos NVMe y redes optimizadas.
-- 📡 **Uptime real del 99.99%**: Infraestructura en múltiples regiones.
-- 🧑‍💻 **Acceso root & paneles intuitivos**: Control total de tu entorno.
-- ☁️ **Escalabilidad flexible**: Recursos que crecen contigo.
-- 💬 **Soporte técnico real 24/7**: Nada de bots, solo humanos expertos.
+FlameHost provides hosting solutions designed for demanding workloads. We specialize in game servers, VPS, and cloud infrastructure with a focus on raw performance and low latency.
 
----
+We build and maintain our own infrastructure, giving us full control over hardware, networking, and support quality.
 
-## 🤝 Contribuciones
+### Services
 
-Nos encanta colaborar y aportar herramientas útiles a la comunidad. Si quieres contribuir a alguno de nuestros repos públicos:
+| Service | Description |
+|---|---|
+| **Game Hosting** | Minecraft, FiveM, and more — optimized for low tick times and instant setup |
+| **VPS** | Scalable virtual servers with dedicated resources and full root access |
+| **Discord Bots** | Custom bot hosting for your projects |
 
-1. Haz un **Fork** del repositorio.
-2. Crea una rama con tu mejora: `git checkout -b feature/nombre`.
-3. Realiza tus cambios y haz commit: `git commit -m "Explica tu cambio"`.
-4. Envía un **Pull Request**.
+### Infrastructure
 
-> Toda contribución será revisada por nuestro equipo antes de ser integrada. ¡Gracias por apoyar el ecosistema open-source!
+| | |
+|---|---|
+| **Storage** | NVMe SSDs across all plans |
+| **Network** | Low-latency, multi-region connectivity |
+| **Control** | Full root access with modern management panels |
 
----
+### Open Source
 
-## 💼 Nuestro compromiso
+We open-source tools and utilities when we can. If you want to contribute to any of our public repos:
 
-> En **TropicalHost** creemos que la tecnología debe estar al servicio de las personas. Por eso ofrecemos más que servidores: brindamos **estabilidad, soporte personalizado y confianza real** en cada uno de nuestros servicios.
+1. Fork the repository
+2. Create your branch (`git checkout -b feature/your-feature`)
+3. Commit your changes and open a Pull Request
 
----
-## 📞 Contacto
+All contributions are reviewed by our team before merging.
 
-- 🌐 Sitio web: [tropicalhost.net](https://tropicalhost.net)
-- 📧 Email: soporte@tropicalhost.net
-- 💬 Discord: discord.gg/nodes
+### Contact
 
----
+Reach out through our [Discord](https://discord.gg/flamehost) or visit [flamehost.net](https://flamehost.net) for support and sales.
+
+<div align="center">
+
+<br />
+
+<sub>Built with purpose. Powered by performance.</sub>
+
+</div>
