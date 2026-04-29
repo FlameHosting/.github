@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/FlameHosting/.github/blob/main/docs/banner.png" alt="FlameHost" width="100%" />
+<img src="https://github.com/FlameHosting/.github/blob/main/docs/banner.png" alt="FlameHost" width="80%" />
 
 <br />
 <br />
